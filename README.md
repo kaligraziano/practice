@@ -16,3 +16,11 @@ I'd really like for you to bring a few more people along to join in.
 This project requires a computer and internet.
                 
 ![img_5026](https://user-images.githubusercontent.com/31671465/30526312-d445ff20-9be6-11e7-9ff1-01813e925317.JPG)
+
+---
+
+# Day Two
+
+## Clean up
+
+This is how you clean.
