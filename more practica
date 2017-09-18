@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Example HTML Slide Deck</title>
+    <meta charset="utf-8">
+    <style>
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# Presentation Title
+
+##Author 1 and Author 2
+
+---
+
+# Slide 1 Title
+
+## Bullet 1 on Slide 1
+
+## Bullet 2 on Slide 1
+   
+## Bullet 3 on Slide 1
+
+---
+# Slide 2 Title
+      
+## Bullet 1 on Slide 2
+
+## Bullet 2 on Slide 2
+   
+## Bullet 3 on Slide 2
+
+---
+# Slide 3 Title
+	    
+## Bullet 1 on Slide 3
+
+## Bullet 2 on Slide 3
+   
+## Bullet 3 on Slide 3
+	    
+This slide deck was written in HTML.
+
+The slides themselves were written in Markdown incorporated into the HTML file.
+
+The slides you are seeing are rendered using remark.js <https://remarkjs.com/downloads/remark-latest.min.js>    
+            
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
